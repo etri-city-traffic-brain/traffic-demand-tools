@@ -1,7 +1,7 @@
 # traffic-demand-tools
 ## Task 1. TOD plan based on smart-intersection data
 ### Sample Code
-python TOD.py --crsrd-id 1860001400 --input-dir ./data --output-dir ./result --max-tod 5
+python TOD.py --crsrd-id 1850041700 --input-dir ./data --output-dir ./result --max-tod 4
 
 #### Arguments
 * crsrd-id : smart-intersection ID
