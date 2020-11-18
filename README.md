@@ -41,5 +41,5 @@ Using dataset from smart-intersection, the time table with TOD labels is estimat
 ### 1-2. Issues
 #### Missing values in input data (ORT_CCTV_5MIN_LOG)
 * (1st) moving average
-* (2nd) fill 0
+* (2nd) fill with 0 and drop na or inf values during normalization
 * Still need to improve
