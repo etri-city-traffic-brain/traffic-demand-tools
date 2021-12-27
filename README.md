@@ -55,4 +55,4 @@ python uniq_rse_analysis.py ./data/RSE_COL_20211124.xlsx 20211124
 ### Description
 * Analyze the travel time between specific RSE spots, and draw/store the Boxplot Figure of the travel time according to RSE spots.
 - Output Example
-![RSE_Analysis_20211124_20211207](https://user-images.githubusercontent.com/65158395/147442016-89d1cdb6-c28d-406c-b47e-b9568c131383.jpg width="700" height="370")
+<img src="https://user-images.githubusercontent.com/65158395/147442016-89d1cdb6-c28d-406c-b47e-b9568c131383.jpg" width="700" height="370">
