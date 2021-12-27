@@ -43,3 +43,16 @@ Using dataset from smart-intersection, the time table with TOD labels is estimat
 * (1st) moving average
 * (2nd) fill with 0 and drop na or inf values during normalization
 * Still need to improve
+
+## Task 2. RSE Analysis (for target area)
+### Sample Code
+python uniq_rse_analysis.py ./data/RSE_COL_20211124.xlsx 20211124
+
+#### Arguments
+* Target RSE Data File Name
+* Target Date (on which the RSE Data is collected)
+
+### Description
+* Analyze the travel time between specific RSE spots, and draw/store the Boxplot Figure of the travel time according to RSE spots.
+- Output Example
+
