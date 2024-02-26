@@ -56,3 +56,16 @@ python uniq_rse_analysis.py ./data/RSE_COL_20211124.xlsx 20211124
 * Analyze the travel time between specific RSE spots, and draw/store the Boxplot Figure of the travel time according to RSE spots.
 - Output Example
 <img src="https://user-images.githubusercontent.com/65158395/147442016-89d1cdb6-c28d-406c-b47e-b9568c131383.jpg" width="700" height="370">
+
+
+## Task 2. TOD plan considering SA intersection group
+### Sample Code
+python tod_generator.py --input-dir ./data --output-dir ./result --max-tod 10
+
+#### Input datasets
+* traffic_input.csv
+* crsrd_sa.csv
+
+#### Results
+##### TOD table
+* For each SA, day type, time (1 hour-unit), TOD is labeled
