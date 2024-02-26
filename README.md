@@ -58,7 +58,7 @@ python uniq_rse_analysis.py ./data/RSE_COL_20211124.xlsx 20211124
 <img src="https://user-images.githubusercontent.com/65158395/147442016-89d1cdb6-c28d-406c-b47e-b9568c131383.jpg" width="700" height="370">
 
 
-## Task 2. TOD plan considering SA intersection group
+## Task 3. (Advanced) TOD plan considering SA intersection group
 ### Sample Code
 python tod_generator.py --input-dir ./data --output-dir ./result --max-tod 10
 
